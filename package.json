@@ -1,0 +1,22 @@
+{
+  "name": "dog-pawri",
+  "version": "1.0.0",
+  "description": "A react app from scratch without using create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashidwivedi/dog-pawri.git"
+  },
+  "author": "Shashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashidwivedi/dog-pawri/issues"
+  },
+  "homepage": "https://github.com/shashidwivedi/dog-pawri#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
