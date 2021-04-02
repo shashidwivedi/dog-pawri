@@ -1,3 +1,5 @@
+/* global React ReactDOM*/
+
 const App = () => {
   return React.createElement("div", {}, [
     React.createElement("h1", { id: "brand-name" }, "Dog Pawri"),
