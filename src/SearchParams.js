@@ -7,7 +7,7 @@ const SearchParams = () => {
   const [animal, setAnimal] = useState("");
 
   return (
-    <div className="searchparams">
+    <div className="search-params">
       <form action="">
         <label htmlFor="location">Location</label>
         <input
